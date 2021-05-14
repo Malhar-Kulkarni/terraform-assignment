@@ -9,4 +9,4 @@ Write a terraform code to create below resources (Need not apply it, just a clea
 6) A Mysql RDS in private subnet.
 7) An application load balancer and a target group with instance attached.
 
-# NOTE - Use terraform version 0.12.30
+### NOTE - Use terraform version 0.12.30
